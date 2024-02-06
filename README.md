@@ -14,4 +14,6 @@
 ---
 ## 联系方式：
 - QQ：3480656548
-- 邮箱：amdisyes@126.com
+- 邮箱1：3480656548@qq.com
+- 邮箱2：amdisyes@outlook.com
+- 邮箱3：amdisyes@126.com
