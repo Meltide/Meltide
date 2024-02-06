@@ -12,6 +12,9 @@
 - [x] 📜 JSON
 - [x] 📖 YAML/Config
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMDISYES)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMDISYES)](https://github.com/anuraghazra/github-readme-stats)
+---
 ## 联系方式：
 - QQ：3480656548
 - 邮箱1：3480656548@qq.com
