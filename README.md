@@ -14,8 +14,8 @@
 - [x] 📖 YAML/Config
 ---
 ### Github 数据
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMDISYES)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMDISYES)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meltide)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meltide)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### 联系方式
 - QQ：3480656548
