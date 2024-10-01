@@ -1,4 +1,4 @@
-8![MeltIce.](https://www.freeimg.cn/i/2024/10/01/66fbaca74d620.webp)
+![MeltIce.](https://www.freeimg.cn/i/2024/10/01/66fbaca74d620.webp)
                                 
 **Meltide** a.k.a **MeltIce**
 
@@ -9,15 +9,15 @@
 
 ---
 ### 我会的
-- [x] 🌐 HTML/CSS/JS
-- [x] 🐍 Python
-- [x] ▶️ 易语言
-- [x] 👓 Visual Basic
-- [x] 🐘 PHP(小会)
-- [x] 🐱 Scratch
-- [x] ⬇️ Markdown
-- [x] 📜 JSON
-- [x] 📖 YAML/Config
+- ✅ 🌐 HTML/CSS/JS
+- ✅ 🐍 Python
+- ✅ ▶️ 易语言
+- ✅ 👓 Visual Basic
+- 🅾️ 🐘 PHP(小会)
+- ✅ 🐱 Scratch
+- ✅ ⬇️ Markdown
+- ✅ 📜 JSON
+- ✅ 📖 YAML/Config
 ---
 ### Github 数据
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meltide)](https://github.com/anuraghazra/github-readme-stats)
