@@ -1,6 +1,6 @@
 <div align="center">
 
-![Astral](https://pic1.imgdb.cn/item/67f232730ba3d5a1d7eea2c2.jpg)
+# Astral
                                 
 **Meltide** a.k.a **Astral**
 <br>
