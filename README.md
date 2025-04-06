@@ -30,8 +30,8 @@
 
 ## 联系方式
 - QQ：3480656548
-- Telegram: [@MeltIce2947](https://t.me/MeltIce2947)
-- Lifeinvader Studio TG群: [@MeetLifeinvader](https://t.me/MeetLifeinvader)
+- Telegram: [@kisama_astral](https://t.me/kisama_astral)
+- Charon Studio TG群: [@MeetCharon](https://t.me/MeetCharon)
 - Bilibili: [-MeltIce](https://space.bilibili.com/57690791)
 - 邮箱1：3480656548@qq.com
 - 邮箱2：amdisyes@outlook.com
