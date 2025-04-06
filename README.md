@@ -1,14 +1,6 @@
 <div align="center">
 
-      ___         __             __
-<br>
-     /   |  _____/ /__________ _/ /
-<br>
-    / /| | / ___/ __/ ___/ __ `/ / 
-<br>
-   / ___ |(__  ) /_/ /  / /_/ / /  
-<br>
-/_/  |_/____/\__/_/   \__,_/_/
+![Astral](https://pic1.imgdb.cn/item/67f232730ba3d5a1d7eea2c2.jpg)
                                 
 **Meltide** a.k.a **Astral**
 <br>
