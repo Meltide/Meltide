@@ -2,7 +2,7 @@
 
 ![MeltIce.](https://www.freeimg.cn/i/2024/10/01/66fbaca74d620.webp)
                                 
-**Meltide** a.k.a **MeltIce**
+**Meltide** a.k.a **Astral**
 <br>
 一条有梦想的咸鱼(σ≧︎▽︎≦︎)σ。
 
@@ -15,9 +15,10 @@
 ## 我会的
 - ✅ 🌐 HTML/CSS/JS
 - ✅ 🐍 Python
+- ✅ 🧮 C/C++
 - ✅ ▶️ 易语言
 - ✅ 👓 Visual Basic
-- 🅾️ 🐘 PHP(小会)
+- ✅ 🐘 PHP
 - ✅ 🐱 Scratch
 - ✅ ⬇️ Markdown
 - ✅ 📜 JSON
