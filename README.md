@@ -30,7 +30,7 @@
 
 ## 联系方式
 - QQ：3480656548
-- Telegram: [@kisama_astral](https://t.me/kisama_astral)
+- Telegram: [@mitsuki_astral](https://t.me/mitsuki_astral)
 - Charon Studio TG群: [@MeetCharon](https://t.me/MeetCharon)
 - Bilibili: [-MeltIce](https://space.bilibili.com/57690791)
 - 邮箱1：3480656548@qq.com
