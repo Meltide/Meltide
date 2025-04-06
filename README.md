@@ -35,4 +35,3 @@
 - Bilibili: [-MeltIce](https://space.bilibili.com/57690791)
 - 邮箱1：3480656548@qq.com
 - 邮箱2：amdisyes@outlook.com
-- 邮箱3：amdisyes@126.com
