@@ -1,6 +1,6 @@
 <div align="center">
 
-![Astral](https://pic1.imgdb.cn/item/67f234010ba3d5a1d7eea361.jpg)
+![MeltIce.](https://www.freeimg.cn/i/2024/10/01/66fbaca74d620.webp)
                                 
 **Meltide** a.k.a **MeltIce**
 <br>
