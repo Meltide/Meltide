@@ -2,7 +2,7 @@
 
 ![Astral](https://pic1.imgdb.cn/item/67f234010ba3d5a1d7eea361.jpg)
                                 
-**Meltide** a.k.a **Astral**
+**Meltide** a.k.a **MeltIce**
 <br>
 一条有梦想的咸鱼(σ≧︎▽︎≦︎)σ。
 
@@ -30,8 +30,9 @@
 
 ## 联系方式
 - QQ：3480656548
-- Telegram: [@mitsuki_astral](https://t.me/mitsuki_astral)
+- Telegram: [@mitsuki_ice](https://t.me/mitsuki_ice)
 - Charon Studio TG群: [@MeetCharon](https://t.me/MeetCharon)
 - Bilibili: [-MeltIce](https://space.bilibili.com/57690791)
+- Matrix: @mitsuki_ice:mozilla.org
 - 邮箱1：3480656548@qq.com
 - 邮箱2：amdisyes@outlook.com
