@@ -19,6 +19,7 @@
 - ✅ ▶️ 易语言
 - ✅ 👓 Visual Basic
 - ✅ 🐘 PHP
+- ✅ ☕ Java
 - ✅ 🐱 Scratch
 - ✅ ⬇️ Markdown
 - ✅ 📜 JSON
