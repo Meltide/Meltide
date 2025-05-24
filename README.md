@@ -29,7 +29,7 @@
 ## 联系方式
 - QQ：3480656548
 - Telegram: [@mitsuki_ice](https://t.me/mitsuki_ice)
-- Charon Studio TG群: [@MeetCharon](https://t.me/MeetCharon)
+- MPGA Team TG群: [@MPGATeam](https://t.me/MPGATeam)
 - Bilibili: [-MeltIce](https://space.bilibili.com/57690791)
 - Matrix: @mitsuki_ice:mozilla.org
 - 邮箱1：3480656548@qq.com
