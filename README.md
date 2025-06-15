@@ -1,6 +1,6 @@
 <div align="center">
 
-![MeltIce.](https://www.freeimg.cn/i/2024/10/01/66fbaca74d620.webp)
+![MeltIce.](res/MeltIce.jpg)
                                 
 **Meltide** a.k.a **MeltIce**
 <br>
@@ -20,7 +20,6 @@
 
 ## Github 数据
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meltide)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meltide)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 联系方式
