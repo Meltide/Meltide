@@ -13,14 +13,10 @@
 
 
 ## 我会的
-- ✅ 🌐 HTML/CSS/JS
+- ✅ 🧮 C/C++
 - ✅ 🐍 Python
-- ✅ 🧮 C/C++/C#
-- ✅ ▶️ 易语言
-- ✅ 👓 Visual Basic
-- ✅ 🐘 PHP
 - ✅ ☕ Java
-- ✅ 🐱 Scratch
+- ✅ 🌐 HTML/CSS/JS
 
 ## Github 数据
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meltide)](https://github.com/anuraghazra/github-readme-stats)
